@@ -12,7 +12,7 @@ All scenarios are documented in PDF format and organized by SQL operation type.
 |-------------------------|----------------------------------------------------|
 | DDL.pdf                 | Table creation, altering, and renaming             |
 | dml.pdf                 | Insert, update, delete, and select operations      |
-| function.pdf            | PL/SQL procedures, functions, cursors              |
+| function.pdf            | SQL procedures, functions, cursors              |
 | join.pdf                | SQL joins – natural, inner, outer, cross           |
 | nested query.pdf        | Nested queries, subqueries, and correlated queries |
 
